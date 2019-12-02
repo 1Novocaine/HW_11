@@ -1,0 +1,46 @@
+
+.table_style_1 {
+ position: absolute;
+ left: 50%;
+ top: 40%;
+ -webkit-transform: translate(-50%, -50%);
+ -moz-transform: translate(-50%, -50%);
+ -ms-transform: translate(-50%, -50%);
+ -o-transform: translate(-50%, -50%);
+ transform: translate(-50%, -50%);
+ width:600px; 
+ 
+}
+  
+.table-modal {
+margin-top: 2%;
+margin-left: 17%;
+width:500px; 
+}
+
+
+.table-first, .table-modal, .card-title {
+text-align: center;
+}
+
+
+.card-text {
+text-align: justify;
+}
+
+.card-body {
+	width: 50rem;
+margin-top: 10%;
+margin-left: 5%;
+}
+
+.recently-watched {
+width: 12rem;
+position: absolute;
+left: 0%;
+top: 10%;
+}
+.recently-watched {
+font-size: 12px;
+text-align: center;
+}
